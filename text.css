@@ -1,0 +1,27 @@
+.video{
+  font-family: arial;
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.view{
+  font-family: arial;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.video-author {
+  font-family: arial;
+  font-size: 14px;
+  margin-top: 0;
+
+}
+
+.view-author {
+  font-family: arial;
+  font-size: 14px;
+  color: rgb(207, 0, 0);
+}
