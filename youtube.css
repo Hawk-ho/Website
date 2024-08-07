@@ -3,3 +3,14 @@
   
   
 }
+.search{
+  display: block;
+
+}
+.video-title{
+  width: 300px;
+}
+.video-preview{
+  width: 300px;
+  display: inline-block;
+}
