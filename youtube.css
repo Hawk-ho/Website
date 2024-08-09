@@ -2,7 +2,7 @@ p{
   font-family: Roboto, arial;
 }
 .thumbnail{
-  width: 300px ;
+  width: 100%;
   
   
 }
@@ -19,12 +19,7 @@ p{
 
 }
 
-.video-preview{
-  width: 300px;
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 15px;
-}
+
 
 .video-info-grid{
   display: grid;
@@ -55,4 +50,10 @@ p{
 }
 .video-author{
   margin-bottom: 4px;
+}
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 15px;
+  row-gap: 16px;
 }
