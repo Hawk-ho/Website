@@ -1,18 +1,10 @@
-body{
-  padding-bottom: 1000px;
-}
-p{
-  font-family: Roboto, arial;
-}
 .thumbnail{
   width: 100%;
   
   
 }
-.search{
-  display: block;
 
-}
+
 .video-title{
   margin-top: 0;
   font-size: 14px;
