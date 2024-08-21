@@ -1,2 +1,2 @@
 # Website
-Small website that were built using HTML and CSS
+In this repository , you will find a collection of small websites that were built using HTML and CSS.
